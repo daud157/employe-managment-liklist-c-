@@ -1,0 +1,4 @@
+g++	0
+saiba	7898
+ahmed	3445
+ere	23
